@@ -15,8 +15,8 @@
 </div>
 
 <did>
-  <a href="mailto: gabriel.mesiano@gmail.com"><img height= "40cm" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto: gabriel.mesiano@gmail.com"><img height= "35cm" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-mesiano-18407119b/"><img height= "40cm" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gabriel-mesiano-18407119b/"><img height= "35cm" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
