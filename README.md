@@ -6,7 +6,7 @@
   <img height= "150cm" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-mesiano&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height= "150cm" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-mesiano&show_icons=true&theme=github_dark" />
+  <img height= "150cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mesiano&layout=compact&theme=github_dark" />
 </a>
 
 <did>
