@@ -8,12 +8,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height= "180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark" />
 </a>
-  ###
 <did>
-  <a href="https://github.com/Gabriel-Mesiano">
-    <img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"
-  </a>
-  
+  <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 <did>
