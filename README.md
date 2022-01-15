@@ -11,9 +11,12 @@
 <did>
   <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 </div>
 
+    
+    
 <did>
   <a href="mailto: gabriel.mesiano@gmail.com"><img height= "35cm" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
