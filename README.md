@@ -6,7 +6,7 @@
   <img height= "180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-mesiano&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height= "180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark" />
+  <img height= "180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mesiano&layout=compact&theme=github_dark" />
 </a>
 <div>
   <a href="https://github.com/Gabriel-Mesiano"><img height= "40cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
