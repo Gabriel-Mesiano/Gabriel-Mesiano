@@ -1,6 +1,6 @@
 ### Hello, i'm Gabriel Mesiano!
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Android Studio
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height= "180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-mesiano&theme=github_dark" />
